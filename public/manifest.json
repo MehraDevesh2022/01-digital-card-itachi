@@ -4,9 +4,9 @@
     "short_name": "Uchiha",
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "browser",
+  
     "scope": "/",
-    "start_url": "/",
+   
 
  
   "icons": [
@@ -42,6 +42,8 @@
       "sizes": "512x512"
      
     }
-  ]
+  ],
+  "display": "standalone",
+  "start_url": "/"
 
 }
